@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @667ky，and I am a student from China
-- 👀 I’m interested in machine learning
+- 👋 Hi, I’m @667ky，and I am a student from 
+- 👀 I’m interested in 
 - 🌱 I’m currently learning （everything ...HaHa)
 
 - 💞️ The direction of my research is numerical simulation in the field of geotechnical engineering
-- 📫 How to reach me ：Email or my RED which number is 517528250
+- 📫 How to reach me ：
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...(to be continued)
 
